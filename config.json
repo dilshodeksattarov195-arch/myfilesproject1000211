@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadersetch",
+        "uuid": 776058,
+        "checksum": "fvtacw"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
